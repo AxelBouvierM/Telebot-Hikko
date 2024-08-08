@@ -50,4 +50,6 @@ Actualmente, proporciona información relevante de la empresa basada en un conte
 
 Para la ejecución del bot, utilizaremos el siguiente comando: python3 main.py.
 
+Flujo del bot:
+<img width="3200" alt="Untitled (1)" src="https://github.com/user-attachments/assets/aa36aae1-9ab8-4557-9749-a9c1f2655083">
 
