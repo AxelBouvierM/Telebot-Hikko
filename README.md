@@ -1,4 +1,4 @@
-**Telegram Bot con Python**
+# Telegram Bot con Python
 
 Este proyecto es un bot de Telegram desarrollado en Python utilizando la biblioteca telebot. El bot está diseñado para interactuar con los usuarios a través de un menú principal que ofrece diversas funcionalidades integradas con OpenAI y OpenWeatherMap.
 
